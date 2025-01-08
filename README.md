@@ -28,3 +28,5 @@ LangGraph orchestrates these steps, managing the flow of data between them. Asyn
 This GIF Animation Generator demonstrates the potential of combining multiple AI technologies to automate the process of generating dynamic visual content from text prompts. By simplifying animation creation, it provides a modular tool for content creators and educators.
 
 The current implementation produces a simple two-frame GIF, but the architecture is modular and can be easily extended to support longer animations, user feedback, and more advanced media types. As AI continues to evolve, this project highlights the future of automated content creation and AI-assisted storytelling.
+
+![Unicorn Gif](https://github.com/varshnidevib/Genai-POCs/blob/gif-animation-generator/images/unicorm.gif)
